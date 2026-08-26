@@ -1,0 +1,6 @@
+{
+  "name": "LibriSpace - Multi-Tenant Study Library & Co-Working SaaS",
+  "description": "Multi-tenant SaaS application for study library & co-working seat management featuring GPS geofencing for on-site registration & attendance, interactive 2D floor plans, KYC approvals, shift booking, fee ledgers, and seat sticker generator.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
